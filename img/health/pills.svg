@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" role="img" aria-label="pills">
+<rect width="200" height="160" fill="#fff"/>
+<rect x="18" y="24" width="112" height="112" rx="12" fill="#cfd8e3" stroke="#8d9bab" stroke-width="3"/>
+<g fill="#ffffff" stroke="#8d9bab" stroke-width="2">
+<circle cx="46" cy="52" r="15"/><circle cx="102" cy="52" r="15"/><circle cx="46" cy="108" r="15"/><circle cx="102" cy="108" r="15"/></g>
+<line x1="34" y1="52" x2="58" y2="52" stroke="#b9c3cf" stroke-width="3"/><line x1="90" y1="108" x2="114" y2="108" stroke="#b9c3cf" stroke-width="3"/>
+<g transform="translate(158 92) rotate(-35)"><rect x="-16" y="-40" width="32" height="80" rx="16" fill="#3a78c2"/><path d="M-16 0 H16 V24 A16 16 0 0 1 -16 24 Z" fill="#f2f2f2"/><rect x="-16" y="-40" width="32" height="80" rx="16" fill="none" stroke="#2b5c96" stroke-width="3"/></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" role="img" aria-label="a digital thermometer">
+<rect width="200" height="160" fill="#fff"/>
+<g transform="translate(100 80) rotate(-30)">
+<rect x="-86" y="-10" width="60" height="20" rx="10" fill="#c9ced6"/><circle cx="-84" cy="0" r="7" fill="#9aa3ad"/>
+<rect x="-32" y="-24" width="118" height="48" rx="20" fill="#2f7fd0"/>
+<rect x="-18" y="-14" width="58" height="28" rx="5" fill="#dff3e3" stroke="#1d5a96" stroke-width="2"/>
+<text x="11" y="7" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#16361f">38.5</text>
+<circle cx="62" cy="0" r="8" fill="#e8eef6"/></g>
+</svg>

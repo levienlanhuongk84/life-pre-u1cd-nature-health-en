@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" role="img" aria-label="hot water with honey and lemon">
+<rect width="200" height="160" fill="#fff"/>
+<g stroke="#b7b7b7" stroke-width="4" fill="none" stroke-linecap="round"><path d="M72 36 q-8 -10 0 -20"/><path d="M92 38 q-8 -12 0 -24"/><path d="M112 36 q-8 -10 0 -20"/></g>
+<path d="M44 48 H140 V112 A26 26 0 0 1 114 138 H70 A26 26 0 0 1 44 112 Z" fill="#f6c343" stroke="#b8860b" stroke-width="3"/>
+<path d="M140 64 h10 a18 18 0 0 1 0 36 h-10" fill="none" stroke="#b8860b" stroke-width="7"/>
+<rect x="44" y="48" width="96" height="12" fill="#fbe39a"/>
+<g transform="translate(58 46)"><circle r="22" fill="#fff38a" stroke="#d6b300" stroke-width="3"/><circle r="15" fill="#fff9c4"/><g stroke="#d6b300" stroke-width="2"><line x1="-15" y1="0" x2="15" y2="0"/><line x1="0" y1="-15" x2="0" y2="15"/><line x1="-10.6" y1="-10.6" x2="10.6" y2="10.6"/><line x1="-10.6" y1="10.6" x2="10.6" y2="-10.6"/></g></g>
+<g transform="translate(168 118) rotate(28)"><rect x="-3" y="-60" width="6" height="56" fill="#8b5a2b"/><g fill="#d99a2b"><rect x="-12" y="-4" width="24" height="7" rx="3"/><rect x="-14" y="5" width="28" height="7" rx="3"/><rect x="-12" y="14" width="24" height="7" rx="3"/></g></g>
+</svg>

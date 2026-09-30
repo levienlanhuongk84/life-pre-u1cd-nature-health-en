@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 160" role="img" aria-label="cough sweets">
+<rect width="200" height="160" fill="#fff"/>
+<g transform="translate(58 62) rotate(-18)"><path d="M-40 0 L-58 -16 L-58 16 Z M40 0 L58 -16 L58 16 Z" fill="#f4a3a3"/><ellipse cx="0" cy="0" rx="40" ry="24" fill="#d93b3b"/><path d="M-22 -10 Q0 -20 22 -10" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round" opacity=".7"/></g>
+<g transform="translate(140 58) rotate(14)"><path d="M-36 0 L-54 -15 L-54 15 Z M36 0 L54 -15 L54 15 Z" fill="#9ed9a6"/><ellipse cx="0" cy="0" rx="36" ry="22" fill="#2e9d4b"/><path d="M-20 -9 Q0 -18 20 -9" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round" opacity=".7"/></g>
+<g transform="translate(100 118) rotate(-4)"><path d="M-38 0 L-56 -15 L-56 15 Z M38 0 L56 -15 L56 15 Z" fill="#ffd79a"/><ellipse cx="0" cy="0" rx="38" ry="23" fill="#f08a1c"/><path d="M-21 -9 Q0 -19 21 -9" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round" opacity=".7"/></g>
+</svg>
